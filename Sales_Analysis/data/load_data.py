@@ -15,3 +15,5 @@ def load_csv():
     except Exception as e:
         print(f"Error loading CSV file: {e}")
         return None
+
+load_csv()
