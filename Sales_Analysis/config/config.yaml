@@ -1,0 +1,20 @@
+# File paths
+data:
+  raw: "data/raw/customer_churn.csv"
+  processed: "data/processed/cleaned_churn_data.csv"
+
+# Model parameters
+model:
+  test_size: 0.2
+  random_state: 42
+  max_iter: 1000
+
+# Visualization settings
+visualization:
+  figure_size: [10, 6]
+  dpi: 300
+  style: "seaborn-v0_8"
+
+# Reports
+reports:
+  figures_dir: "reports/figures/"

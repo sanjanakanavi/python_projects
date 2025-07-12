@@ -1,0 +1,21 @@
+customer_id,age,gender,tenure,monthly_charges,total_charges,contract_type,payment_method,churn
+1,29,Female,1,29.85,29.85,Month-to-month,Electronic check,Yes
+2,1,Male,34,56.95,1889.5,One year,Mailed check,No
+3,2,Female,2,53.85,108.15,Month-to-month,Mailed check,Yes
+4,32,Male,45,42.3,1840.75,One year,Bank transfer,No
+5,31,Female,2,70.7,151.65,Month-to-month,Electronic check,Yes
+6,29,Female,8,99.65,820.5,Month-to-month,Electronic check,Yes
+7,44,Male,22,89.1,1949.4,One year,Mailed check,No
+8,27,Female,10,29.75,301.9,Month-to-month,Electronic check,No
+9,33,Male,28,42.65,1192.75,One year,Bank transfer,No
+10,63,Female,13,56.15,738.2,Month-to-month,Electronic check,Yes
+11,23,Male,3,53.75,164.85,Month-to-month,Mailed check,Yes
+12,45,Female,9,42.3,377.45,Month-to-month,Electronic check,No
+13,78,Male,47,24.56,1196.75,One year,Bank transfer,No
+14,50,Female,5,100.35,499.4,Month-to-month,Electronic check,Yes
+15,35,Male,43,99.35,4320.2,Two year,Credit card,No
+16,56,Female,27,43.7,1198.8,One year,Bank transfer,No
+17,26,Male,60,20.25,1203.2,Two year,Mailed check,No
+18,66,Female,14,89.85,1245.5,Month-to-month,Electronic check,Yes
+19,22,Male,28,67.5,1869.8,One year,Credit card,No
+20,50,Female,49,25.35,1263.45,Two year,Bank transfer,No 
